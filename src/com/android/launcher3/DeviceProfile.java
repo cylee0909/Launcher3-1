@@ -218,6 +218,7 @@ public class DeviceProfile {
 
         hotseatBarTopPaddingPx =
                 res.getDimensionPixelSize(R.dimen.dynamic_grid_hotseat_top_padding);
+
         hotseatBarBottomPaddingPx =
                 res.getDimensionPixelSize(R.dimen.dynamic_grid_hotseat_bottom_padding);
         hotseatBarLeftNavBarRightPaddingPx = res.getDimensionPixelSize(
